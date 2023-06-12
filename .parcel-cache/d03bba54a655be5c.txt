@@ -1,0 +1,21 @@
+20
+60C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist133310536075280534 1
+78C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\map2.2c0c3d2a.jpg133310535658189075 0
+66C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\index.html133310512967815796 0
+84C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\Country app.3464ddca.js133310535657723581 0
+79C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.54e92e71.css133310536074982494 0
+64C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\map2.jpg133238015670014131 0
+65C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\style.css133310527499574896 0
+65C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\script.js133310502775831442 0
+68C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\package.json133310535655583941 0
+73C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\package-lock.json133269798659223803 0
+88C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\Country app.3464ddca.js.map133310535657914053 0
+78C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.2a5fa92c.js133310536074986195 0
+82C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.2a5fa92c.js.map133310536075244874 0
+79C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.3a01df49.css133310535657723581 0
+83C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.3a01df49.css.map133310535657942700 0
+83C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.54e92e71.css.map133310536075248067 0
+78C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.672d4772.js133310535657728629 0
+82C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.672d4772.js.map133310535657947701 0
+71C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\index.html133310536074986195 0
+78C:\Users\Brutus\Desktop\LiutaAdin.workspace\Country app\dist\map2.1031dff0.jpg133310536072776667 0

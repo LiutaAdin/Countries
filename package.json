@@ -1,0 +1,15 @@
+{
+  "name": "country-app",
+  "version": "1.0.0",
+  "description": "Application with information about certain  or random country",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Adin Liuță",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
